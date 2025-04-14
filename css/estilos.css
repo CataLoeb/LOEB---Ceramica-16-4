@@ -1,0 +1,9 @@
+body{background-color: rgb(233, 229, 225);
+    color: rgb(238, 130, 88);}
+h1{text-align: center;text-transform:uppercase;}
+h2{text-align: center;}
+h3{text-align: center;text-decoration:underline dotted;}
+p{color: rgb(16, 0, 39);}
+a{color:rgb(18, 136, 209);}
+img{border-radius: 2%; width: 80%;display: block;margin: auto; }
+ol{color: rgb(16, 0, 39);;}
